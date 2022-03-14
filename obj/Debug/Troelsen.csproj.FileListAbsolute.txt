@@ -1,0 +1,7 @@
+C:\Users\RMC\source\repos\Troelsen\Troelsen\bin\Debug\Troelsen.exe.config
+C:\Users\RMC\source\repos\Troelsen\Troelsen\bin\Debug\Troelsen.exe
+C:\Users\RMC\source\repos\Troelsen\Troelsen\bin\Debug\Troelsen.pdb
+C:\Users\RMC\source\repos\Troelsen\Troelsen\obj\Debug\Troelsen.csproj.AssemblyReference.cache
+C:\Users\RMC\source\repos\Troelsen\Troelsen\obj\Debug\Troelsen.csproj.CoreCompileInputs.cache
+C:\Users\RMC\source\repos\Troelsen\Troelsen\obj\Debug\Troelsen.exe
+C:\Users\RMC\source\repos\Troelsen\Troelsen\obj\Debug\Troelsen.pdb
