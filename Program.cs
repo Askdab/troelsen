@@ -27,6 +27,7 @@ namespace Troelsen
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine("Hello world");
             Console.ReadLine();
         }
 
