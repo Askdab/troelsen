@@ -20,15 +20,6 @@ namespace Troelsen
                 Console.WriteLine(sum);
             }
 
-            Stringis kek = new Stringis();
-            kek.StringisBuilder();
-
-            Console.WriteLine("Hello world!");
-            for(int i = 0; i < 3; i++)
-            {
-                Console.WriteLine(i);
-            }
-            Console.WriteLine("Hello world");
             Console.ReadLine();
         }
 
