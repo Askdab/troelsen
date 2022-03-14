@@ -11,13 +11,14 @@ namespace Troelsen
     {
         static void Main(string[] args)
         {
-            //byte a = 100;
-            //byte b = 250;
-            //unchecked
-            //{
-            //    byte sum = (byte)Add(a, b);
-            //    Console.WriteLine(sum);
-            //}
+            byte a = 100;
+            byte b = 250;
+
+            unchecked
+            {
+                byte sum = (byte)Add(a, b);
+                Console.WriteLine(sum);
+            }
 
             Stringis kek = new Stringis();
             kek.StringisBuilder();
